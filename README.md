@@ -1,5 +1,5 @@
 # DCGAN_CelebA
-DCGAN (Deep Convolutional Generative Adversarial Networks) is a seminal [paper]"(https://arxiv.org/abs/1511.06434)" in the field of generative modeling, published by Alec Radford, Luke Metz, and Soumith Chintala in 2015. DCGAN introduced a novel architecture for training generative models using adversarial learning, specifically designed for generating realistic images.
+DCGAN (Deep Convolutional Generative Adversarial Networks) is a seminal [paper](https://arxiv.org/abs/1511.06434) in the field of generative modeling, published by Alec Radford, Luke Metz, and Soumith Chintala in 2015. DCGAN introduced a novel architecture for training generative models using adversarial learning, specifically designed for generating realistic images.
 
 The key idea behind DCGAN is to use convolutional neural networks (CNNs) as both the generator and discriminator models in a GAN framework. The generator network takes random noise as input and gradually upsamples it to generate synthetic images. The discriminator network, on the other hand, learns to distinguish between real and generated images.
 
